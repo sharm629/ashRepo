@@ -10,7 +10,7 @@ package javaapplication5;
 
 public class JavaApplication5 {
 
-    /**
+    /**knklnl
      * @param args the command line arguments
      */
     public static void main(String[] args) {
